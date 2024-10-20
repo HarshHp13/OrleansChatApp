@@ -26,7 +26,7 @@ namespace Silo.Services
             //    Thread.Sleep(1000);
             //}
 
-            var o = new GrpcObserver();
+            var o = _grainFactory.GetGrain<IGrpcObserver>(Guid.Parse(request.UserId));
             await o.SetStream(responseStream);
             var observer = _grainFactory.CreateObjectReference<IGrpcObserver>(o);
             

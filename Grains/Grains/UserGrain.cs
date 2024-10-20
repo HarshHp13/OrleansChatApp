@@ -27,11 +27,9 @@ namespace Grains.Grains
             _manager = new ObserverManager<IGrpcObserver>(TimeSpan.FromMinutes(5), logger);
         }
 
-        public Task Subscribe(IGrpcObserver observer)
+        public async Task Subscribe(IGrpcObserver observer)
         {
             _manager.Subscribe(observer, observer);
-
-            return Task.CompletedTask;
         }
 
         //Clients use this to unsubscribe and no longer receive messages.

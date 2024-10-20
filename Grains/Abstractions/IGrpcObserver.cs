@@ -9,9 +9,13 @@ using System.Threading.Tasks;
 
 namespace Grains.Abstractions
 {
-    public interface IGrpcObserver : IGrainObserver
+    public interface IGrpcObserver : IGrainWithGuidKey, IGrainObserver
     {
         public Task getMessages(NewMessageEvent item);
         public Task SetStream(IServerStreamWriter<MessageResponse> responseStream);
+
+        public Task writeMessages();
+
+        public Task getMessagesFromDb();
     }
 }
