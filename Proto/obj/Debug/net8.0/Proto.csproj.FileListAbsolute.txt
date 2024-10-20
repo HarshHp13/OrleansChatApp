@@ -1,0 +1,12 @@
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Proto\bin\Debug\net8.0\Proto.deps.json
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Proto\bin\Debug\net8.0\Proto.dll
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Proto\bin\Debug\net8.0\Proto.pdb
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Proto\obj\Debug\net8.0\Proto.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Proto\obj\Debug\net8.0\Proto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Proto\obj\Debug\net8.0\Proto.AssemblyInfoInputs.cache
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Proto\obj\Debug\net8.0\Proto.AssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Proto\obj\Debug\net8.0\Proto.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Proto\obj\Debug\net8.0\Proto.dll
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Proto\obj\Debug\net8.0\refint\Proto.dll
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Proto\obj\Debug\net8.0\Proto.pdb
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Proto\obj\Debug\net8.0\ref\Proto.dll

@@ -1,0 +1,15 @@
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\bin\Debug\net8.0\Grains.deps.json
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\bin\Debug\net8.0\Grains.dll
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\bin\Debug\net8.0\Grains.pdb
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\bin\Debug\net8.0\Proto.dll
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\bin\Debug\net8.0\Proto.pdb
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\obj\Debug\net8.0\Grains.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\obj\Debug\net8.0\Grains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\obj\Debug\net8.0\Grains.AssemblyInfoInputs.cache
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\obj\Debug\net8.0\Grains.AssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\obj\Debug\net8.0\Grains.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\obj\Debug\net8.0\Grains.csproj.Up2Date
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\obj\Debug\net8.0\Grains.dll
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\obj\Debug\net8.0\refint\Grains.dll
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\obj\Debug\net8.0\Grains.pdb
+C:\Users\prati\OneDrive\Desktop\Orleans\chat-app\Silo\Grains\obj\Debug\net8.0\ref\Grains.dll

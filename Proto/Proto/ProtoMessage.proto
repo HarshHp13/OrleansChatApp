@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "Proto";
+
+message MessageRequest{
+	string userId=1;
+}
+
+message MessageResponse{
+	string messageId=1;
+	string message=2;
+	string timestamp=3;
+}
+
+service ProtoMessageService{
+	rpc GetMessages (MessageRequest) returns (stream MessageResponse);
+}
